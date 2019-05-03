@@ -44,7 +44,7 @@ SOLUTION: Make sure the shortcut on your desktop uses a drive letter for the pat
 SOLUTION: Have Cygwin installed on your workstation. (The Cygwin installation used by TISU
 should include Python 3)
 
-Moveing on...
+Moving on...
 
 4) Create a file named "names.txt" in the same location as the summary text file.
 5) Open 'summary.txt.idx-filtered.txt'. Copy any items of interest to "names.txt"
