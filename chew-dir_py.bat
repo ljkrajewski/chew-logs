@@ -1,5 +1,5 @@
 @echo off
-set WD=%~dp0
+set WD="%~dp0"
 goto startCode
 
 ===========================================================================
@@ -12,7 +12,7 @@ function main1 {
 
 #In the batch file,
 # - Add after "@echo off": 
-#     set WD=%~dp0
+#     set WD="%~dp0"
 # - Replace "echo %* > %TEMP%\params.txt" with: 
 #     echo %WD% %* > %TEMP%\params.txt
 
