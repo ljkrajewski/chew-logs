@@ -29,7 +29,7 @@ finish.
 
 3a) Open a command prompt. CD to the scripts directory.
 3b) Type
-	chew-dir_py.bat "V:\logs\dir_you_put_them" -recurse
+	chew-dir_py.bat "C:\PATH_TO\LOGS" -recurse
 
 When done, you will have either 'summary.txt.idx-filtered.txt' (if parsing a directory)
 or '<log filename>.idx-filtered.txt' (if parsing an individual file). Review this file
